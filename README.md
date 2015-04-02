@@ -66,3 +66,4 @@ instead of decimal-encoded entites like `&#8212;`.
 
 *Give MarkDown some love* <http://daringfireball.net/projects/markdown/>
 
+### Emoji Stuff
