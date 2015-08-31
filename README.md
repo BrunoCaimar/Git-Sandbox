@@ -73,3 +73,5 @@ http://www.emoji-cheat-sheet.com/
 
 :art:
 :hammer:
+:monkey_face:
+:horse:
