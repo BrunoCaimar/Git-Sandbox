@@ -1,3 +1,6 @@
-var func = () {
-	hello = function() { alert("Hey"); }
-}
+
+var func = function () {
+	var hello = function () {
+        alert("Hey");
+    };
+};

@@ -55,6 +55,7 @@ This is an [example link](http://example.com/).
 
 This is an [example link](http://example.com/ "With a Title").
 
+Local links [Testing.js](testing.js)
 
 ### Code
 
