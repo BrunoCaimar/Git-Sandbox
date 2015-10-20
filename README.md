@@ -75,3 +75,5 @@ http://www.emoji-cheat-sheet.com/
 :hammer:
 :monkey_face:
 :horse:
+:booze:
+:brown:
