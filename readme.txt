@@ -31,3 +31,5 @@ Author: Scott Chacon <schacon@gee-mail.com>
 Date:   Sun Feb 8 19:02:46 2009 -0800
 
     Merge branch 'experiment'
+
+Testing git rebase (squashing)
