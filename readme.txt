@@ -32,4 +32,5 @@ Date:   Sun Feb 8 19:02:46 2009 -0800
 
     Merge branch 'experiment'
 
-Testing git rebase (squashing)
+Squashing it - the right way!
+
