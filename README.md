@@ -77,3 +77,4 @@ http://www.emoji-cheat-sheet.com/
 :horse:
 :pizza:
 :+1:
+:-1:
