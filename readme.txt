@@ -34,3 +34,7 @@ Date:   Sun Feb 8 19:02:46 2009 -0800
 
 Squashing it - the right way!
 
+-----
+
+how to do a squash?
+
