@@ -1,3 +1,4 @@
+will use PR with rebase
 
 will use PR with squash
 
