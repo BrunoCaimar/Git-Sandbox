@@ -1,3 +1,6 @@
+
+will use PR with squash
+
 git merge Ñno-ff
 
 git tag -a v1.0 
