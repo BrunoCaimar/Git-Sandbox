@@ -1,7 +1,8 @@
+will use PR with rebase
 
 will use PR with squash
 
-git merge Ñno-ff
+git merge Ã‘no-ff
 
 git tag -a v1.0 
 git tag v1.4-lw
@@ -20,7 +21,7 @@ v0.1
 v1.3
 v1.4
 
-The -m specifies a tagging message, which is stored with the tag. If you don’t specify a message for an annotated tag, Git launches your editor so you can type it in.
+The -m specifies a tagging message, which is stored with the tag. If you donâ€™t specify a message for an annotated tag, Git launches your editor so you can type it in.
 
 You can see the tag data along with the commit that was tagged by using the git show command:
 
