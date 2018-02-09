@@ -1,5 +1,12 @@
+Rebasing again…
+
 Testing File....
 
 Testing file... branch
 
 Testing file... again
+New branch 0001 - How history gets into it?
+
+PR with Squash
+
+PR with Rebase
