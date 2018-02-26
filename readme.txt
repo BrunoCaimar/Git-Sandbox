@@ -46,3 +46,9 @@ Squashing it - the right way!
 
 how to do a squash?
 
+----- 
+Cherry pick 
+
+doing it ... 
+
+
