@@ -1,10 +1,10 @@
 Another one ...
 
-now going to use rebase properly
+yours - now going to use rebase properly
 
 will use PR with rebase
 
-will use PR with squash
+yours - will use PR with squash
 
 git merge Ñno-ff
 
@@ -12,7 +12,7 @@ git tag -a v1.0
 git tag v1.4-lw
 
 git push origin v1.5
-git push origin --tags
+yours - git push origin --tags
 
 
 Annotated Tags
