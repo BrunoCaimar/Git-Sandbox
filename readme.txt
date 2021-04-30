@@ -1,5 +1,4 @@
-﻿
-Hey you, out there in the cold
+﻿Hey you, out there in the cold
 Getting lonely, getting old
 Can you feel me?
 
