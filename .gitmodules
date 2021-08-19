@@ -1,0 +1,3 @@
+[submodule "TestGit"]
+	path = TestGit
+	url = https://github.com/BrunoCaimar/TestGit.git
